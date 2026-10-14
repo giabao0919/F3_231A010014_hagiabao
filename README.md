@@ -1,3 +1,11 @@
+
+#app đăng kí học phần bản flutter (có các tính năng cơ bản)
+
+bổ sung thêm 2 tính năng mới:
+1, Thêm ô chọn ngày sinh bằng showDatePicker, hiển thị theo dạng dd/MM/yyyy.
+2, Đếm ký tự còn lại cho ô Họ tên (maxLength + counterText).
+
+
 # f3_form
 
 A new Flutter project.
